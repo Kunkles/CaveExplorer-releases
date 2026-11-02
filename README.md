@@ -28,5 +28,5 @@ when a newer build is out.
 
 - **Windows:** run `CaveExplorer-Windows.exe`. SmartScreen may warn about
   an unknown publisher: *More info*, then *Run anyway*.
-- **macOS:** unzip and open *Cave Explorer*. The app isn't notarized, so
-  the first time, right-click it and choose *Open*, then *Open* again.
+- **macOS:** unzip and open *Cave Explorer*. It's signed and notarized by
+  Apple, and runs on Apple silicon and Intel Macs.
